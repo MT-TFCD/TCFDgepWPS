@@ -1,0 +1,35 @@
+Metadata-Version: 2.2
+Name: geppy
+Version: 0.1.3
+Summary: A package for gene expression programming in Python.
+Home-page: https://github.com/ShuhuaGao/geppy
+Download-URL: https://github.com/ShuhuaGao/geppy/archive/v0.1.3.tar.gz
+Author: Shuhua Gao
+Author-email: nus.gao.shuhua@gmail.com
+License: LGPL-3.0 License
+Keywords: evolutionary computation,gene expression programming,computational intelligence,genetic programming
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: License :: OSI Approved :: GNU Lesser General Public License v3 (LGPLv3)
+Classifier: Operating System :: OS Independent
+Classifier: Intended Audience :: Science/Research
+Classifier: Topic :: Scientific/Engineering :: Artificial Intelligence
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: deap
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: download-url
+Dynamic: home-page
+Dynamic: keywords
+Dynamic: license
+Dynamic: requires-dist
+Dynamic: summary
+
+*geppy* is developed for fast prototyping of **gene expression programming** (GEP) in Python, which is
+    built on top of the DEAP package. Please the [GitHub repository](https://github.com/ShuhuaGao/geppy) for details.
