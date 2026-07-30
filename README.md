@@ -154,8 +154,7 @@ The model requires boundary-layer parameters and frequency information:
 # Citation
 
 If you use this code for academic research, please cite:
-
-    [Please insert the corresponding paper citation]
+*******************************************
 
 ------------------------------------------------------------------------
 
